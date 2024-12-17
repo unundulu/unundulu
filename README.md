@@ -1,6 +1,6 @@
 (Sources have not yet been uploaded)
 
-# Unundulu's Demo
+# Unundulu's Interruptive Sequence Demo
 
 Unundulu has published the source files of music created with the Interruptive Sequence technique.
 It is very interesting tasty music.
