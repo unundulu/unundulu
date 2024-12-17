@@ -1,0 +1,429 @@
+/.comment extend edit
+
+(I)
+(aFM1,1) (M1 ,500)
+(aFM2,2) (M2 ,500)
+(aFM3,3) (M3 ,500)
+(aFM4,4) (M4 ,500)
+(aFM5,5) (M5 ,500)
+(aFM6,6) (M6 ,500)
+(aFM7,7) (M7 ,500)
+(aFM8,8) (M8 ,13000)
+
+(v11,0	/ digibell  
+/	 AF  OM  WF SYC SPD PMD AMD PMS AMS PAN
+	  4, 15,  2,  0,  0,  0,  0,  0,  0,  3,  0
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 28, 24,  6,  0,  0, 16,  1, 10,  4,  0,  0
+	 28, 13,  0,  7,  0,  3,  1,  7,  5,  1,  0
+	 28, 20,  1,  5,  1, 20,  0, 10,  0,  1,  0
+	 28,  6,  0,  6,  0,  0,  1,  7,  0,  0,  0)
+
+(v20,0	/ perc.     
+/	 AF  OM  WF SYC SPD PMD AMD PMS AMS PAN
+	 60, 15,  2,  0,128,  0,  0,  0,  0,  3,  0
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 19, 17, 20, 12,  0,  0,  0, 13,  0,  1,  0
+	 31, 20, 16,  6,  0,  0,  0,  8,  0,  1,  0
+	 17, 20, 18,  8,  0,  3,  0, 13,  0,  2,  0
+	 31, 20, 16,  6,  0,  0,  0, 10,  0,  1,  0)
+
+(@35	/ peco
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 30,  0,  0, 15, 14, 24,  0,  2,  0,  3,  0
+	 20,  6, 10, 15, 10, 10,  0,  7,  0,  0,  0
+	 31, 16, 10, 15,  0,  5,  0,  3,  0,  3,  0
+	 31, 16, 10, 15,  0,  0,  0,  3,  0,  3,  0
+/	 AL  FB  OM
+	  5,  7, 15)
+
+(@40	/ phoo
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 20, 21, 10,  8,  8, 10,  0,  1,  0,  1,  0
+	 21, 20,  0,  9, 10,  0,  0,  1,  0,  2,  0
+	 31,  0,  0,  9,  0,  0,  0,  1,  0,  2,  0
+	 31, 10, 10,  8, 10,  0,  0,  1,  1,  2,  0
+/	 AL  FB  OM
+	  5,  6, 15)
+
+(v64,0	/ hhc.tech.
+/	 AF  OM  WF SYC SPD PMD AMD PMS AMS PAN
+	 52, 15,  2,  0,111,  0,  0,  0,  0,  3,  0
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 31,  1,  0,  8, 12, 11,  0,  0,  0,  3,  0
+	 31, 29, 10, 10,  0,  0,  0, 14,  0,  1,  0
+	 31, 22,  7,  8,  6,  0,  0, 15,  7,  0,  0
+	 31, 20, 20,  8, 15,  0,  0,  0,  0,  1,  0)
+
+(v65,0	/ m66
+/	 AF  OM  WF SYC SPD PMD AMD PMS AMS PAN
+	 61, 15,  0,  0,  0,  0,  0,  0,  0,  3,  0
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 31,  0,  0, 15,  0, 20,  0, 15,  1,  1,  0
+	 31,  0,  0, 15,  0,  0,  0,  0,  0,  0,  0
+	 31,  0,  0, 15,  0,  0,  0,  0,  0,  0,  0
+	 31,  0,  0, 15,  0,  0,  0,  0,  0,  0,  0)
+
+(v66,0	/ m66-2
+/	 AF  OM  WF SYC SPD PMD AMD PMS AMS PAN
+	 61, 15,  0,  0,  0,  0,  0,  0,  0,  3,  0
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 31,  0,  0, 15,  0, 19,  0, 15,  0,  2,  0
+	 31,  0,  0, 15,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0, 15,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0, 15,  0,  0,  0,  2,  0,  0,  0)
+
+(@71	/ bub
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 30,  0,  0, 15, 14,  0,  0,  0,  0,  0,  0
+	 20,  0,  0, 15, 10, 10,  0, 11,  0,  3,  0
+	 31,  0,  0, 15,  0,  5,  0, 11,  0,  3,  0
+	 31,  0,  0, 15,  0,  0,  0, 11,  2,  3,  0
+/	 AL  FB  OM
+	  5,  0, 15)
+
+(@72	/ bub
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 30,  0,  0, 15, 14,  0,  0,  0,  0,  0,  0
+	 20,  0,  0, 15, 10, 10,  0,  7,  0,  3,  0
+	 31,  0,  0, 15,  0,  5,  0,  7,  0,  3,  0
+	 31,  0,  0, 15,  0,  0,  0,  7,  3,  3,  0
+/	 AL  FB  OM
+	  5,  1, 15)
+
+(@73	/ bub
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 30,  0,  0, 15, 14,  0,  0,  0,  0,  0,  0
+	 20,  0,  0, 15, 10, 10,  0,  9,  0,  0,  0
+	 31,  0,  0, 15,  0,  5,  0,  9,  0,  0,  0
+	 31,  0,  0, 15,  0,  0,  0,  9,  2,  0,  0
+/	 AL  FB  OM
+	  5,  0, 15)
+
+(@92	/ rapsd  (hard hit)
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 31,  0,  1,  5,  0, 20,  3,  0,  0,  3,  0
+	 31, 10,  5,  5,  5,  0,  2,  8,  2,  0,  0
+	 31, 14,  5,  5,  5,  0,  2,  8,  7,  0,  0
+	 31, 19,  5,  9,  5,  0,  1,  0,  0,  2,  0
+/	 AL  FB  OM PAN  WF SYC SPD PMD AMD PMS AMS
+	  5,  6, 15,  3,  3,  0,255,127,127,  7,  7)
+
+(v119,0	/ s.perc.   
+/	 AF  OM  WF SYC SPD PMD AMD PMS AMS PAN
+	 62, 15,  2,  0,205,  0,  0,  0,  0,  3,  0
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 31, 23,  3, 12,  1, 13,  0, 13,  0,  0,  0
+	 26, 15, 15, 12,  1,  0,  0,  0,  0,  0,  0
+	 24, 15, 15, 12,  1,  0,  0, 15,  0,  1,  0
+	 28, 14, 22, 10,  1,  0,  1,  0,  0,  0,  0)
+
+(v121,0	/ metalgum
+/	 AF  OM  WF SYC SPD PMD AMD PMS AMS PAN
+	  5, 15,  0,  0,  0,  0,  0,  0,  0,  3,  0
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 31,  8, 31,  5, 15,  0,  2,  1,  0,  3,  0
+	 31, 18, 18, 12,  7,  0,  2,  1,  0,  0,  0
+	 31, 14, 31, 12, 15,  0,  2,  2,  0,  0,  0
+	 31,  8, 14,  9,  0,  0,  2,  2,  0,  0,  0)
+
+(@122	/ po
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 10, 26, 20, 15, 10, 20,  0,  8,  0,  0,  0
+	 25, 28, 30, 10, 10,  0,  0,  6,  0,  0,  0
+	 31, 30, 20, 10,  1,  0,  0,  2,  0,  0,  0
+	 31, 10, 10, 15,  1,  0,  0,  2,  0,  0,  0
+/	 AL  FB  OM
+	  7,  7, 15)
+
+(@125	/ dot kick
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 27, 27,  0,  9, 10,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  2,  0,  0,  0
+/	 AF  OM  WF
+	  5,  0, 15)
+(@125	/ dot kick
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 27, 28,  0,  9, 10,  0,  0,  1,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  1,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  1,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  1,  0,  0,  0
+/	 AF  OM  WF
+	  5,  0, 15)
+(@125	/ dot kick
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 27, 28,  0,  9, 10,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  2,  0,  0,  0
+/	 AF  OM  WF
+	  5,  5, 15)
+
+(@126	/ bounce kick
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 25, 27, 20,  5, 10,  0,  0,  1,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  1,  0,  0,  0
+	 31,  0,  0,  8,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  8,  0,  0,  0,  2,  0,  0,  0
+/	 AL  FB  OM
+	  5,  0, 15)
+
+(@127	/ Heavy Kick
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 31, 29,  5,  1, 14,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  4,  0,  0,  0,  2,  3,  0,  0
+	 31,  0,  0,  5,  0,  0,  0,  2,  4,  0,  0
+	 31,  0,  0,  8,  0,  0,  0,  2,  1,  0,  0
+/	 AL  FB  OM
+	  5,  0, 15)
+(@127	/ distr. atk ghetto bass
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	  8, 20,  8,  4,  8, 12,  0,  2,  0,  0,  0
+	 20,  0,  0, 10,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0, 10,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0, 10,  0,  0,  0,  2,  0,  0,  0
+/	 AL  FB  OM
+	  6,  5, 15)
+
+(@128	/ bounce kick
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 29, 29, 20,  5, 13,  0,  0,  1,  0,  0,  0
+	 31,  0,  0,  9,  0,  0,  0,  1,  0,  0,  0
+	 31,  0,  0,  8,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0, 10,  0,  0,  0,  2,  0,  0,  0
+/	 AL  FB  OM
+	  5,  0, 15)
+
+(@129	/ dpt kick 3
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 26, 26, 21,  7,  3,  0,  0,  2,  0,  0,  0
+	 22,  0,  0,  8,  0,  0,  0,  2,  0,  0,  0
+	 22,  0,  0,  9,  0,  0,  0,  2,  0,  0,  0
+	 22,  0,  0,  9,  0,  0,  0,  2,  0,  0,  0
+/	 AF  FB  OM
+	  6,  4, 15)
+
+(@130	/ lgk
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 31,  0, 10,  6,  0, 27,  0,  4,  0,  0,  0
+	 31,  0,  0,  5,  0,  0,  0,  2,  3,  0,  0
+	 31,  0,  0,  7,  0,  0,  0,  2,  4,  0,  0
+	 31,  0,  0,  7,  0,  0,  0,  2,  1,  0,  0
+/	 AL  FB  OM
+	  5,  7, 15)
+
+(@142	/ grime bass (katame)
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 20,  0, 10, 10,  4,  0,  0,  1,  0,  0,  0
+	 31,  8,  8,  8,  2,  0,  0,  1,  0,  0,  0
+	 31,  0,  0, 10,  0,  0,  0,  3,  0,  0,  0
+	 31,  0,  0,  8,  0,  0,  0,  1,  0,  0,  0
+/	 AL  FB  OM
+	  7,  4, 15)
+
+(@144	/ ghetto bass
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 21, 15, 20,  7,  7,  0,  0,  1,  0,  0,  0
+	 21, 10, 20,  7,  5,  0,  0,  1,  0,  0,  0
+	 31, 10, 20,  7,  5,  0,  0,  1,  0,  0,  0
+	 31,  0,  0,  7,  0,  0,  0,  1,  0,  0,  0
+/	 AL  FB  OM
+	  7,  0, 15)
+
+(@150	/ computer 1
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 20,  0,  0, 10,  0, 21,  0,  3,  0,  0,  0
+	 31,  0,  0, 10,  0, 10,  0,  3,  0,  0,  0
+	 30,  0,  0, 10,  0, 10,  0,  3,  0,  0,  0
+	 30,  0,  0, 10,  0,  2,  0,  3,  0,  0,  0
+/	 AL  FB  OM
+	  3,  6, 15)
+
+(@151	/ computer 2
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 20,  0,  0, 10,  0, 21,  0,  6,  0,  0,  0
+	 31,  0,  0, 10,  0, 17,  0,  3,  0,  0,  0
+	 30,  0,  0, 10,  0, 20,  0,  3,  0,  0,  0
+	 30,  0,  0, 10,  0,  0,  0,  3,  0,  0,  0
+/	 AL  FB  OM
+	  3,  0, 15)
+
+(@152	/ computer 3
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 20,  0,  0, 10,  0, 22,  0,  2,  0,  0,  0
+	 31,  0,  0, 10,  0, 18,  0,  4,  0,  0,  0
+	 30,  0,  0, 10,  0, 20,  0, 10,  0,  0,  0
+	 30,  0,  0, 10,  0,  0,  0,  8,  0,  0,  0
+/	 AL  FB  OM
+	  0,  7, 15)
+
+/	---- 
+
+/(t1,2,3,4,5,6,7,8) t128
+/(t1,2,3,4,5,6,7,8) t124
+/(t1,2,3,4,5,6,7,8) t90
+(t1,2,3,4,5,6,7,8) t116
+(t1,2,3,4,5,6,7,8) @a @m s2,2 @v0 l16
+
+/	----
+
+(@180	/ noise bass 
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	  5, 10, 10, 10,  3,  4,  0,  0,  0,  0,  0
+	 20,  7,  5, 10,  0,  0,  0,  1,  1,  0,  0
+	  5, 15,  5, 10,  0,  0,  0,  1,  3,  0,  0
+	  5, 15,  5, 10,  0,  0,  0,  1,  0,  0,  0
+/	 AL  FB  OM
+	  5,  6, 15)
+
+(@181	/ liquid bass 
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 18,  9, 10, 10,  3, 13,  0,  0,  0,  0,  0
+	 20,  7,  5, 10,  0,  0,  0,  2,  1,  0,  0
+	 15,  5,  5, 10,  0,  0,  0,  1,  3,  0,  0
+	 15,  5,  5, 10,  0,  0,  0,  0,  0,  0,  0
+/	 AL  FB  OM
+	  5,  5, 15)
+
+(@138	/ egui gk
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 31,  0, 10,  2,  0, 14,  0,  4,  0,  0,  0
+	 31,  0,  0,  2,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  2,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  2,  0,  0,  0,  2,  0,  0,  0
+/	 AL  FB  OM
+	  5,  7, 15)
+
+(@139	/ egui gk
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 21,  0,  0,  4,  0,  7,  0,  3,  0,  1,  0
+	 31,  0,  0,  3,  0,  0,  0,  2,  1,  0,  0
+	 31,  0,  0,  3,  0,  0,  0,  2,  1,  0,  0
+	 31,  0,  0,  3,  0,  0,  0,  2,  0,  0,  0
+/	 AL  FB  OM
+	  5,  6, 15)
+
+(@135	/ egui gk
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 20,  4,  2,  1,  0,  3,  0,  1,  0,  3,  0
+	 31,  0,  0,  1,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  2,  0,  0,  0,  2,  0,  0,  0
+	 31,  0,  0,  4,  0,  0,  0,  2,  2,  0,  0
+/	 AL  FB  OM
+	  5,  6, 15)
+(@135	/ egui gk
+/	 AR  DR  SR  RR  SL  OL  KS  ML DT1 DT2 AME
+	 20,  0,  4,  1,  0,  0,  0, 11,  0,  1,  0
+	 31,  0,  0,  4,  0,  0,  0,  0,  0,  0,  0
+	 31,  0,  0,  4,  0,  0,  0,  1,  0,  0,  0
+	 31,  0,  0,  4,  0,  0,  0,  1,  0,  0,  0
+/	 AL  FB  OM
+	  5,  5, 15)
+
+/(t8) l16/@l10
+(t8) @l11
+
+/(t8) @v116@65q8o6@s,3s,3h,0@c%1110@a90|:14rer _2:|@a
+/(t8) @v116@65q8o6@s,5s,3h,0@c%1110@a90|:16rer _2:|@a
+/(t8) @v116@65q8o6@s,7s,3h,0@c%1110@a90|:18rer _2:|@a
+/(t8) @v116@65q8o6@s,9s,3h,0@c%1110@a90|:20rer _2:|@a
+/(t8) @v116@65q8o6@s,2s,3h,0@c%1110@a90|:22re_10e~ _2:|@a
+/(t8) @v118@125@k0o0q8|:13f+rrr _2:|
+/(t8) @v117@65o7q8@s,5s,3h,0@c%1110@a90|:13 rr@65a>>>@122a-<<< _2:|@a
+/(t8) @v117   o6q8@s,7s,3h,0@c%1110@a90|:12 r@65o3bro6@35c>@122a-<ro1@125f _2:|@a
+////(t8) @v118@128@k0o1q8|:11 @121o1q0b @122o7q0a>>a>a @66q4o6a---- @128o1q8(<e*4,>d)&(d*8,>>f-)<<r @35o2q2<<<a&>>>q6f+r _2:|
+/(t8) @v117|:12 @65o1q8e@35o1q4c+&<<<c>>> @122o4q0f>>f @11o6q7a @65o0q0f+ @125o0q0f _2:|@a
+/(t8) @v117|:12 @125o0q0fr @65o1q8e@35o1q4c+&<c+&<<<c>>>> @122o4q0f>>f @11o6q7a+&a @125o0q0fr _2:|@a
+
+(t8) @v117
+/// @s150,170s1,2h1,1@c%0110@a20
+ |:4 @125o0q0fr @65o1q2e@35o1q4c+&<c+<@150q2d+r>> @122o3q0f>>f @11o5q7a+&a @125o0q0frr :|
+ @125o0q0fr @65o1q2e@35o1q4c+&<c+<@150q2d+r>> @122o3q0f>>f @11o5q7a+&a @125o0q0frrfrr
+ @125o0q0fr @65o1q2e@35o1q4c+&<c+@150q7d+r> @122o3q0f>>f @11o5q7a+&a @125o0q0frrfrr
+ @125o0q0fr @65o1q2e@35o1q4c+&<c+@150q8d+8r> @122o5q0f>>f @11o5q7a+&a @125o0q0frrfrr
+ @125o0q0fr @65o1q2e@35o1q4c+&<c+@150q5d+r> @122o3q0f>>f @11o5q7a+&a @125o0q0frrfrr
+ @125o0q0fr @65o1q2e@35o1q4c+&<c+@150q5d+r> @122o5q0f>f>f @11o4q7a+&a @125o0q0frrfrr
+
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+@150q5d+r> @122o3q0f>f>q8f @11o6q7a+&a @125o0q0frrfrr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+@150q5d+r> @122o3q0f>f>q8f @11o6q7a+&a @125o0q0frrfrr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+@150q5d+r> @122o3q0f>f>f @11o6q7a+&a&b @125o0q0frrfrrfrr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+@150q5d+r> @122o3q0f>f>q8f @11o6q7a+&a @125o0q0frrfrr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+@150q5d+r> @122o3q0f>f>f @11o6q7a+&a&b @125o0q0frrfrrfrr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<rrc+>@150q5f+r @122o3q0f>f>q8f @11o6q7a+&a @125o0q0frrfrr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<rrc+>@150q7f+8r @122o3q0f>f>f @11o5q7a+&a&b @125o0q0frrfrrfrr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+>@150q7f+rr _5@65o7q5a~>>>@122a-<<<r @11o6q7a+&a&b @125o0q0frrfrrfrr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+>@150q7f+rr _5@65o7q5a~>>>@122a-<<<r @11o6q7a+&a&b @125o0q0frrfrrfrr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+>@150q5f+rr _5@65o7q5a~>>>@122a-<<<r @11o6q7a+&a&b @125o0q0frrfrrfrr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+>@150q5f+rr _5@65o7q5a~>>>@122a-<<<r @65q8o6@s,3s,3h,0@c%1110@a90e@a r_7@65o3bro6@35c~>@122a-<ro1@125frr @11o6q7a+&a&b @125o0q0frrfr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+>@150q5f+rr _5@65o7q5a~>>>@122a-<<<r @65q8o6@s,3s,3h,0@c%1110@a90e@a r_7@65o3bro6@35c~>@122a-<ro1@125frr @11o6q7a+&a&b @125o0q0frrfr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+>@150q5f+rr _5@65o7q5a~>>>@122a-<<<r @65q8o6@s,3s,3h,0@c%1110@a90e@a r_7@65o3bro6@35c~>@122a-<ro1@125f @11o6q7a+&a&b @125o0q0frrfr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+>@150q5f+rr _5@65o7q5a~>>>@122a-<<<r @65q8o6@s,3s,3h,0@c%1110@a90e@a r_7@65o3bro6@35c~>@122a-<ro1@125f rrr @11o6q7a+&a&b @125o0q0frrfr
+ @125o0q0frr _5@65o0q7e~@35o2q4c+&<c+>@150q5f+rr _5@65o7q5a~>>>@122a-<<<r @65q8o6@s,3s,3h,0@c%1110@a90e@a r_7@65o3bro6@35c~>@122a-<ro1@125f @11o6q7a+&a&b @125o0q0frrfr 
+
+ @125o0q0frrfrr _5@65o0q7e~@35o2q4c+&<rrc+>@150q7f+r @65q8o6@s,3s,3h,0@c%1110@a90e@a @122o5q0f>f>f @11o6q7a+&a&b @125o0q0frrfrr
+ @125o0q0frrfrr _5@65o0q7e~@35o2q4c+&<rrc+>@150q7f+r @65q8o6@s,3s,3h,0@c%1110@a90e@a @122o5q0f>f>f @11o6q7a+a>b @125o0q0frrfrr
+ @125o0q0frrfrrfrr _5@65o0q4cr~@35o2q4c+&<rc+>@150q7ar @65q8o6@s,3s,3h,0@c%1110@a90e@a @122o6q0fr @11o6q7a+&a @125o0q0frr
+ @125o0q0frrfrrfrr _5@65o0q4cr~@35o2q4c+&<rc+>@150q7ar @65q8o6@s,3s,3h,0@c%1110@a90e@a @122o6q0fr @11o6q7a+&a @125o0q0frr
+ @125o0q0frrfrrfrr _5@65o0q4cr~@35o2q4c+&<rc+>@150q7ar @65q8o6@s,3s,3h,0@c%1110@a90e@a @122o3q0f<f<f @11o6q7a+&a @125o0q0frr
+
+ @125o0q0fr _5@65o0q7e~@35o2q4c+&<c+>@150q7f+rr @66q8o6@s,6s,3h,0@c%1110@a90@k+23er@k0@a _5@65o7q5a~>>>@122a-<<<r @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90e@a @125o0q0frrfrr
+ @125o0q0fr _5@65o0q7e~@35o2q4c+&<c+>@150q7f+rr @66q8o6@s,5s,3h,0@c%1110@a90@k+09fr@k0@a _5@65o7q5a~>>>@122a-<<<r @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90e@a @125o0q0frr rrrrrrrrrr @125o0q0frr
+ @125o0q0fr _5@65o0q7e~@35o2q4c+&<c+>@150q7f+rr @66q8o6@s,6s,3h,0@c%1110@a90@k+23er@k0@a _5@65o7q5a~>>>@122a-<<<r @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90e@a @125o0q0frrfrr
+ @125o0q0fr _5@65o0q7e~@35o2q4c+&<c+>@150q7f+rr @66q8o6@s,5s,3h,0@c%1110@a90@k+09fr@k0@a r_7@65o3bro6@35c~>@122a-<r@125o1f _5@65o7q5a~_3@73o0q8f8.~ ~2@121o1q1drr_ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90erre@a @125o0q0frr
+ @125o0q0fr _5@65o0q7e~@35o2q4c+&<c+>@150q7f+rr @66q8o6@s,6s,3h,0@c%1110@a90@k+23er@k0@a r_7@65o3bro6@35c~>@122a-<r@125o1f _5@65o7q5a~r@71_3o2q8fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr
+ @125o0q0fr _5@65o0q7e~@35o2q4c+&<c+>@150q7f+rr @66q8o6@s,6s,3h,0@c%1110@a90@k+23er@k0@a r_7@65o3bro6@35c~>@122a-<r@125o1f _5@65o7q5a~r@71_3o2q3fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr
+ @125o0q0fr _5@65o0q7e~@35o2q4c+&<c+>@150q3f+rr @66q8o6@s,6s,3h,0@c%1110@a90@k+23er@k0@a r_7@65o3bro6@35c~>@122a-<r@125o1f-8 _5@65o7q5a~r@71_3o2q5fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr
+ @125o0q0fr _5@65o0q7e~@35o2q4c+&<c+>@150q7f+rr @66q8o6@s,5s,3h,0@c%1110@a90@k+09fr@k0@a r_7@65o3bro6@35c~>@122a-<r@125o1f _5@65o7q5a~r@71_3o1q8fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr
+ @125o0q0fr _5@65o0q7e~@35o2q4c+&<c+>@150q7f+rr @66q8o6@s,6s,3h,0@c%1110@a90@k+23er@k0@a r_7@65o3bro6@35c~>@122a-<r@125o1f _5@65o7q5a~r@72_3o3q8(f8.,>>f)r~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr
+ @125o0q0fr _5@65o1q7e~@35o3q4c+&<c+>@142o1q8e8r @66q8o6@s,6s,3h,0@c%1110@a90@k+09fr@k0@a r_6@66o7q8(f8,f-)~ro6q7@35c>@122a-<r
+ @121o1q0br _5@65o7q5a~r@72_3o3q6fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr
+ @121o1q0br _5@65o7q5a~r@72_3o3q6fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr
+
+ @125o0q0fr _5@65o1q7e~@35o3q4c+&<c+>@142o1q8e8r @66q8o6@s,7s,3h,0@c%1110@a90@k+12fr@k0@a r_7@65o3q1bro6q7@35c~>@122a-<r@121o1q0br _5@65o7q5a~r@72_3o3q6fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr
+ @125o0q0fr _5@65o1q7e~@35o3q4c+&<c+>@142o1q8e8r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a r_7@65o3q1bro6q7@35c~>@122a-<r@121o1q0br _5@65o7q5a~r@72_3o3q5fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0fr _5@65o1q7e~@35o3q4c+&<c+>@142o1q8e8r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a r_7@65o3q1bro6q7@35c~>@122a-<r@121o1q0br _5@65o7q5a~r@72_3o3q5fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<rr _5@65o1q7e~@35o3q4c+&<c+>@142o1q8e8r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a r_7@65o3q1bro6q7@35c~>@122a-<r@121o1q0br _5@65o7q5a~r@72_3o2q4fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr @126q7o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0frr @o12 @126q8o1(<<<e*2,>>>d)&(d*10,>>f)&r4.<<  @o @o02 _5@65o1q2e~@35o3q3c+<c+>@142o1q2e8r @66q8o6@s,2s,3h,0@c%1110@a90@k+09fr@k0@a r @65o2q1b@121o1q0~2b_@122o7q1a@72_3o2q2fr~ @122o5q2a+ab @65q8o6@s,1s,3h,0@c%1110@a90err@a @o @125o0q0frr 
+ @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<rr _5@65o1q7e~@35o3q4c+&<c+>@142o1q8e8r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _6@65o1q7d~@121o1q4~2b_@122o7q1a@72_3o2q4fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr @126q7o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<rr _5@65o1q7e~@35o3q4c+&<c+>@142o1q8e8r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _6@65o1q7d~@121o1q4~2b_@122o7q1a@72_3o2q4fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr @126q7o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<r _5@65o1q7e~@35o3q4c+&<c+>@142o1q8e8r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _6@65o1q7d~@121o1q4~2b_@122o7q1a@72_3o3q4fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90err@a @125o0q0frr @126q7o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<r _5@65o1q7e~@35o3q4c+&<c+>@142o1q8er @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _6@65o1q7d~@121o1q4~2b_@122o7q1a@72_3o3q4fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90er@a @125o0q0frr @126q7o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<r _5@65o1q7e~@35o3q4c+&<c+>@142o1q8er @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _6@65o1q7d~@121o1q4~2b_@122o7q1a@72_3o4q3fr~ @11o7q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90er@a @125o0q0frr @126q7o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<r _5@65o1q7e~@35o3q4c+&<c+>@142o1q8er @66q8o6@s,2s,3h,0@c%1110@a90@k+09fr@k0@a _6@65o1q7d~@121o1q4~2b_@122o7q1a@72_3o1q8d8.r~ @11o7q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90er@a @125o0q0frr @126q7o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<r _5@65o1q7e~@35o3q4c+&<c+>@142o1q8er @66q8o6@s,2s,3h,0@c%1110@a90@k+09fr@k0@a _6@65o1q7d~@121o1q4~2b_@122o7q1a@72_3o5q2fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90er@a @125o0q0frr @126q7o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<r _5@65o1q7e~@35o3q4c+&<c+>@142o1q8er @66q8o6@s,2s,3h,0@c%1110@a90@k+09fr@k0@a _6@65o1q7d~@121o1q4~2b_@122o7q1a@72_3o5q2fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90er@a @125o0q0frr @126q7o1(<e*3,>d)&(d*9,>>f)<<rr
+ @125o0q0frr @126q8o1(<e*3,>d)&(d*9,>>f)<<r _5@65o1q7e~@35o3q4c+&<c+>@142o1q8er @66q8o6@s,2s,3h,0@c%1110@a90@k+09fr@k0@a _6@65o1q7d~@121o1q4~2b_@122o7q1a@72_3o6q8fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90er@a @125o0q0frr 
+ @125o0q0fr @126q8o1(<e*3,>d)&(d*9,>>f)<<r _5@65o1q7e~@35o3q4c+&<c+>@142o1q8er @66q8o6@s,2s,3h,0@c%1110@a90@k+09fr@k0@a _6@65o1q7d~@121o1q4~2b_@122o7q1a@72_3o3q4fr~ @11o6q7a+&a&b @65q8o6@s,2s,3h,0@c%1110@a90er@a @125o0q0frr 
+
+ @125o0q0frr _5@66o6q8@k+05a+@k0~   @126q8o1(<e*3,>d)&(d*9,>>f)<<r  @150o3q7c+r@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o7q7a+&a&b&<c> @65q8o6@s,2s,3h,0@c%1110@a90er@a @125o0q0frr 
+ @125o0q0frr _5@66o6q8@k+05a+@k0~   @126q8o1(<e*3,>d)&(d*9,>>f)<<r  @150o3q7c+r@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o7q4a+ab<c> @65q8o6@s,1s,3h,0@c%1110@a90err err err err er@a
+ @125o0q0frr _5@66o6q8@k+05a+@k0~   @126q8o1(<e*3,>d)&(d*9,>>f)<<r  @150o3q7c+r@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o6q4a+ab<c> @65q8o6@s,2s,3h,0@c%1110@a90er@a @125o0q0frr 
+ @125o0q0frr _5@66o6q6@k+05a+@k0~   @126q8o1(<e*3,>d)&(d*9,>>f)<<r  @150o3q7c+r@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o7q1a+ab<c> @65q8o6@s,2s,3h,0@c%1110@a90er@a rrr
+ @125o0q0frr _5@66o6q4@k+05a+@k0~ _1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ @150o3q7c+r@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o7q1a+ab<c> @65q8o6@s,2s,3h,0@c%1110@a90er@a rrr
+ @125o0q0frr _5@66o6q3@k+05a+@k0~ _1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ @150o3q7c+r@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o7q1a+ab<c> @65q8o6@s,4s,3h,0@c%1110@a90e@a _1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ r
+ @125o0q0frr _5@66o6q3@k+05a+@k0~ _1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ @150o3q7c+r@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o7q1a+ab<c> @65q8o6@s,4s,3h,0@c%1110@a90e@a _1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ r
+ @125o0q0frr _5@66o6q2@k+05a+@k0~ _1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ @150o3q7c+r@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o6q1a+abc @65q8o6@s,6s,3h,0@c%1110@a90e@a _1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ 
+
+ @125o0q0frr _5@66o6q1@k+05a+@k0~ @65o1q2e@35o1q4c+&<c+<@150q1d+>>@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o7q1a+ab @65q8o6@s,1s,3h,0@c%1110@a90e@a _1@126q7o1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ rrr
+ @125o0q0frr _5@66o6q1@k+05a+@k0~ @65o1q2e@35o1q4c+&<c+<@150q1d+>>@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o7q1a+ab @65q8o6@s,4s,3h,0@c%1110@a90e@a _1@126q7o1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ rrr
+ @125o0q0frr _5@66o6q1@k+05a+@k0~ @65o1q2e@35o1q4c+&<c+<@150q1d+>>@142o1q8f+r @66q8o6@s,7s,3h,0@c%1110@a90@k+09fr@k0@a _4@65o1q7d~@121o1q4~2b_ @142o1q8e @122o7q1a@72_3o3q4fr~ @11o7q1a+ab @65q8o6@s,3s,3h,0@c%1110@a90e@a _1@126q7o1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ rrr
+ @125o0q0frr @65o1q4e@35o1q4c+&<c+<<@150q8d+>>>@142o1q8f+r @66q8o6@s,4s,3h,0@c%1110@a90@k+09fr@k0@a @121o1q4~2b_@122o7q1a@72_3o3q3fr~ @11o7q1a+ab @65q8o6@s,2s,3h,0@c%1110@a90e@a _1@126q7o1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ rrr
+ @125o0q0frr @65o1q4e@35o1q4c+&<c+<<@150q4d+>>>@142o1q7f+r @66q8o6@s,3s,3h,0@c%1110@a90@k+09fr@k0@a @122o7q1a@72_3o4q2fr~ @11o6q0a+ab _1@126q7o1@126q7o1(<e*3,>d)&(d*9,>>f)<<r~ rrr
+ @125o0q0frr @65o1q1e@35o1q4c+&<c+<<@150q1d+>>>@142o1q6f+r @66q8o6@s,2s,3h,0@c%1110@a90@k+09fr@k0@a @72_3o4q3frr>q8f<r~ @11o6q0a+ab @125o0q0frr
+ @125o0q0frr @65o1q1e@35o1q4c+&<c+<<@150q1d+>>>@142o1q5f+r @66q8o6@s,2s,3h,0@c%1110@a90@k+09fr@k0@a @72_3o4q2fr~ @11o7q0a+a @125o0q0frr
+
+ @125o0q0frr @65o1q2e@35o1q4c+&<c+<@150q4d+>>@142o1q5f+r @72_3o4q2fr~ @11o7q0a+a @125o0q0frr
+ @125o0q0frr @65o1q2e@35o1q4c+&<c+<@150q4d+>> @72_3o4q2fr~ @11o7q4a+a @125o0q0frr frr
+ @125o0q0frr @65o1q2e@35o1q4c+&<c+<@150q4d+>> @72_3o4q1fr~rrr  @11o7q4a+&a @125o0q0frr frr
+ @125o0q0frr @65o1q2e@35o1q4c+&<c+<@150q4d+>> @122o3q0f @11o6q4a+&a @125o0q0frr frr
+ @125o0q0frr @65o1q2e@35o1q4c+&<c+<@150q3d+>> @122o6q0f @11o5q4a+&a @125o0q0frr frr
+ @125o0q0frr @65o1q2e@35o1q4c+&<c+<@150q3d+>> @122o4q0f<f @11o5q4a+&a @125o0q0frr frr
+ @125o0q0fr @65o1q2e@35o1q4c+&<c+<@150q2d+r>> @122o3q0f>>f @11o5q7a+&a @125o0q0frr frr
+ @125o0q0frr @65o1q2e@35o1q4c+&<c+<@150q2d+>> @122o4q0f>>f @11o5q7a+&a @125o0q0frr frr
+ @125o0q0frr @65o1q2e@35o1q4c+&<c+<@150q2d+>> @122o4q0f>>f @11o5q7a+&a @125o0q0frr
+
+ |:3 @125o0q0fr @65o1q2e@35o1q4c+&<c+<@150q2d+r>> @122o3q0f>>f @11o5q7a+&a @125o0q0frr :|
+
+(p)
