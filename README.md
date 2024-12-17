@@ -1,5 +1,3 @@
-(Sources have not yet been uploaded)
-
 # Unundulu's Interruptive Sequence Demo
 
 Unundulu has published the source files of music created with the Interruptive Sequence technique.
